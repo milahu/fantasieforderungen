@@ -1,0 +1,822 @@
+(vor dem sitzungssaal)
+
+appel:
+grüß gott.
+herr hauth?
+appel.
+
+hauth:
+gehören sie zu den guten oder zu den bösen?
+
+appel:
+ich ääh...
+
+hauth:
+gehören sie zu "team frommer" oder sind sie der herr miller?
+
+appel:
+der herr miller bin ich nicht,
+der herr miller ist der richter da drin...
+in dem fall gehöre ich zu den guten.
+
+hauth:
+subjektiv...
+
+appel:
+subjektiv, mhm...
+
+(kurze pause.)
+
+hauth:
+"leichte beute"...
+
+<!--
+  in meiner stellungnahme vom 21.09.2025 schreibe ich auch:
+
+  Leichte Beute:
+  Abmahnkanzleien zielen häufig auf „leichte Beute“
+  also solche Personen, die mit der Technik wenig vertraut sind,
+  und einfach einen Torrent-Client laufen lassen,
+  und glauben, dass nichts passieren wird.
+  Diese Nutzer werden systematisch
+  mit überhöhten außergerichtlichen Forderungen unter Druck gesetzt.
+
+  Technikbewusste Nutzer:
+  Wer sich besser mit Netzwerktechnik auskennt,
+  nutzt beispielsweise VPN-Server, um die eigene IP-Adresse zu verschleiern.
+  Auch über das I2P-Netzwerk lässt sich die Herkunft eines Downloads anonymisieren.
+  Zwar wird dadurch die eigentliche „Tat“ nicht verhindert –
+  sie findet ja weiterhin in Deutschland statt –,
+  aber Abmahnkanzleien können den tatsächlichen Täter nicht zuverlässig ermitteln
+  und machen daher lieber „Jagd auf leichten Beute“.
+-->
+
+appel:
+mir geht es gar nicht darum,
+ihnen den lizenzschaden zu entlocken,
+sondern wir wollen dass sie aufhören.
+der schaden ist
+  TODO
+    für uns nach betrifft?
+    für uns nicht so hoch?
+    für uns unerheblich?
+
+hauth:
+stichwort "unterlassungserklärung"
+
+(kurze pause.)
+
+appel:
+dann bis dann...
+
+(appel und seine kollegin gehen in den sitzungssaal.)
+
+(circa 2 minuten pause.)
+
+(teilnehmer der letzten verhandlung kommen aus dem sitzungssaal.)
+
+(miller kommt aus dem sitzungssaal.)
+
+miller:
+herr hauth?
+
+hauth:
+ja.
+
+(miller geht in den sitzungssaal.)
+
+(hauth geht in den sitzungssaal.)
+
+miller:
+sodann wird aufgerufen
+das verfahren warner brothers gegen hauth.
+da sind erschienen:
+für die klägerin:
+rechtsanwalt appel
+[ https://frommer.legal/de/Brains/Legal/David_Appel ]
+mit verstärkung...
+(brauch ich die?)
+ihre kollegin...?
+
+appel:
+(josephin lolai?)
+
+miller:
+wie schreibt man das?
+
+appel:
+ääh, L, O...
+ääh, (sie meinen) meinen namen, oder...?
+
+xxx
+
+miller:
+dann, der beklagte natürlich, zusammen mit dem betreuer...
+den namen (habe ich auch nicht ausgedruckt?), und weiss schon wieder nimmer...
+
+koch:
+koch.
+
+miller:
+herr koch...
+habe ich schon gesagt, 
+also mit ihm hab ich telefoniert, damit dass klappt dass er [hauth?] kommt.
+ähm...
+der herr hauth hat ja
+  (einen schriftsatz geschrieben?)
+  (in seinen schriftsatz rein geschrieben?)
+xxx
+das ist auch alles nicht das problem.
+ich weiss nicht...
+wir sind ja eigentlich unter uns, herr hauth,
+darf ich so ganz offen reden?
+
+hauth:
+ja bitte!
+
+miller:
+das problem ist ja eigentlich ein anderes...
+das problem ist ihre erkrankung.
+ääh...
+darf ich den betreuer fragen, was sie haben, und was ihnen fehlt,
+und davon dann berichten,
+sind sie damit einverstanden, oder?
+weil, das muss man ja irgendwie in die rechtsstreite einführen.
+ich meine, ich, ja...
+und zwar deswegen muss man es einführen,
+weil,
+ich kann schon vorweg nehmen,
+sie haben eine schizophrenie,
+ääh, das ist...
+
+hauth:
+das sagen manche leute, ja.
+
+miller:
+das sagen manche leute,
+und das ist ein auf-und-nieder, das wissen wir auch,
+
+<!--
+  er meint dass ich alle paar jahre
+  "wegen schizophrenie" monatelang in die psychiatrie weggesperrt werde,
+  aber das ist kein beweis für eine psychische krankheit ("schizophrenie"),
+  sondern das ist ein beweis dafür,
+  dass meine feinde (bullen, lehrer, eltern, ...)
+  keine beweise gegen mich haben,
+  aber mich irgendwie loswerden wollen weil die sich von mir "gestört" fühlen,
+  und dann immer ausweichen auf den vorwurf "der ist verrückt und gefährlich!"
+  (eine aussage für die man keine beweise braucht)
+  (ganz ähnlich wie bei gustl mollath...),
+  und sobald dieser zauberspruch ausgesprochen ist,
+  beginnt wieder ein "hexenprozess in der psychiatrie",
+  wo grundsätzlich alle gefangenen ("patienten") schuldig ("krank") sind,
+  und dann ihre unschuld ("gesundheit") beweisen müssen,
+  aber diese gefangenen ("patienten") kriegen keinen pflichtverteidiger ("gegengutachter") wie im strafrecht,
+  sondern diese menschen müssten extrem viel geld zahlen (10.000 euro?) für einen verteidiger ("gegengutachter"),
+  der diesen menschen in einer verteidigung ("gegengutachten") bescheinigt dass sie unschuldig ("gesund") sind,
+  und dann könnten richter anklage ("gutachten") und verteidigung ("gegengutachten") abwägen,
+  aber praktisch alle richter glauben alles was der staatsanwalt ("gutachter") sagt,
+  und alles was der angeklagte ("kranke") sagt, "das ist doch nur kranke scheisse die keiner hören will...",
+  und die richter behaupten einfach "im zivilrecht gibt es keine unschuldsvermutung"
+  und so vergehen die tage, wochen, monate...
+  bis die gefängniswärter ("ärzte") irgendwann entscheiden "jetzt ist er wieder gesund"
+  und dann wird der gefangene ("patient") wieder entlassen.
+  die gefängniswärter ("ärzte") sind **keine** neutralen beobachter,
+  weil die krankenversicherung vom gefangenen zahlt für diese haftstrafe ("unterbringung") jeden tag circa 400 euro an das gefängnis ("klinik"),
+  also für 4 monate sind das 400 * 30 * 40 = 48.000 euro,
+  und je länger ein gefangener ("kranker") gefangen ("untergebracht") bleibt,
+  desto mehr geld verdient das gefängnis ("klinik").
+  das ist leicht verdientes geld, weil für diese 400 euro pro tag
+  muss das gefängnis ("klinik") nur ein "ein-sterne-hotel ohne ausgang" bieten,
+  und das kostet vielleicht 20 euro pro tag.
+  der profit wird aufgeteilt auf "ärzte", "pfleger", putzfrauen, köche, ...
+  bis irgendwann die krankenversicherung sich meldet
+  und nachfragt "warum ist der gefangene immer noch bei euch?"
+  die krankenversicherung könnte dem gefangenen auch einen verteidiger ("gegengutachter") schicken,
+  aber die krankenversicherung findet es irgendwie viel lustiger, wenn unschuldige ("gesunde") im knast ("klinik") sitzen,
+  und obwohl die krankenversicherung sowieso schon jeden monat viel zu viel geld (500 euro) kriegt,
+  belastet sie den gefangenen ("kranken") zusätzlich
+  durch schadensersatzforderungen (mahnbescheid)
+  und erhöhung der versicherungsbeiträge (von 500 auf 1000 euro pro monat).
+  und warum das ganze?
+  einfach nur weil der gefangene ("kranke") den "falschen leuten" über den weg gelaufen ist...
+  zum beispiel, weil der gefangene die bullen "provoziert" hat,
+  was eigentlich legal ist,
+  und man kann ja grundsätzliche alles als "provokation" auslegen
+  ("oh nein! der hat in der nase gebohrt, ich fühle mich provoziert!"),
+  aber die bullen können das ja nicht einfach so "auf sich sitzen lassen",
+  sondern die bullen wollen rache, und dafür gibts die psychiatrie.
+-->
+
+und auch von der frage der behandlung her,
+und da schließen sich ja aber juristische probleme an, auch im zivilrecht,
+also nicht bloß im strafrecht im sinne von 20 und 21, die man "abgrasen" muss,
+
+<!--
+  § 20 StGB und § 21 StGB = schuldunfähigkeit
+-->
+
+sondern wir haben zivilrechtlich genau die gleichen probleme,
+die frage ist immer dann, was war ihm überhaupt...
+
+war ihm irgendwas wirksam zugestellt?
+das ist mal punkt eins,
+oder ist es wirksam zugestellt?
+
+<!--
+  vermutlich meint er:
+  wenn ich plötzlich wieder in der psychiatrie verschwinde
+  dann kann ich ja erstmal meine post nicht lesen...
+  bis ich einen betreuer habe,
+  an den dann meine offizielle post weitergeleitet wird
+  (vom gericht, vom jobcenter, ...)
+  also es kann sein,
+  dass in den tagen zwischen verhaftung und "beiordnung von betreuer"
+  briefe bei mir zu hause ankommen,
+  die keiner öffnen und lesen kann,
+  ausser ich habe (mit glück) familie oder freunde,
+  die das für mich erledigen.
+
+  briefe vom gericht gelten ja schon als "wirksam zugestellt"
+  wenn der briefträger den brief
+  mit dem einwurfdatum markiert und in den briefkasten wirft,
+  und einen rückschein ans gericht ausfüllt ("förmliche zustellung").
+  eine "persönliche zustellung" ist da nicht nötig,
+  so genau geht es da nicht beim gericht...
+-->
+
+und punkt zwei ist:
+wenn eine verantwortlichkeit da ist, oder da wäre,
+ist die frage die,
+ob es auch er verantworten muss
+bei seinem krankheitsbild
+ob das machbar ist oder nicht
+
+das nächste was wir haben, in der ganzen geschichte,
+ist natürlich das wirtschaftliche problem,
+was sie auch dargelegt haben,
+ähm... ja...
+
+hauth:
+für mich ist das kein problem, haha.
+
+miller:
+für den anderen
+für sie ist das kein problem, das ist schon klar.
+xxx
+müssen
+überlegen
+was wir mit dem verfahren machen.
+beide fälle
+ich darf es ja nicht verbinden
+zwei verfahren
+muss ich dann rüberspiegeln
+
+denn, wenn ich das mal so vorweg nehme,
+zwei verschiedene sind
+aber unterm strich
+
+ich mache das jetzt im zivilbereich
+ich sage jetzt mal zwischen 11 und 13 jahren hier
+und ich hab jetzt noch kein verfahren gehabt
+das von der beauskunftung so viele blätter gegeben hat wie die beiden
+das muss ich jetzt mal...
+
+<!--
+  circa 1000 blätter...
+-->
+
+appel:
+da bin ich bei ihnen
+und wenn wir mal ganz offen sprechen
+wir haben ja auf dem flur schon gesprochen
+sie haben gefragt
+ob wir auf der guten oder auf der bösen seite sind
+zur kenntnis genommen
+soweit sie uns bekannt ist
+wir haben sie auf dem schirm
+angesprochen...
+maßgeblich in diesen beiden verfahren
+ist nicht der lizenzschaden den wir geltend machen
+sondern, wie der herr miller gerade sagte,
+ich weiß nicht wie viele seiten die klage
+die anspruchsbegründung hat
+wir haben sie seit 2021 täglich ermittelt, ihren anschluss
+und, in anführungsstrichen, "fun fact":
+am 9.12.2024
+nicht mehr zu hause waren
+sofort aufgehört
+also brauchen wir uns um die verantwortung nicht mehr...
+
+<!--
+  die angeblichen "uploads" haben deswegen am 9.12.2024 aufgehört,
+  weil an diesem tag (circa um 9 uhr vormittags)
+  haben die bullen meine wohnung "durchsucht",
+  und dabei alle meine speichermedien mitgenommen
+  (rechner, laptops, telefone, festplatten, USB-sticks, speicherkarten, ...),
+  und dabei haben die bullen auch meinen internet-router (also mein WLAN) ausgesteckt (ausgeschaltet),
+  also deswegen hatte ich ab diesem zeitpunkt auch kein offenes WLAN ("freifunk") mehr,
+  über das meine nachbarn zugriff auf meinen internetanschluss haben.
+-->
+
+miller:
+sie haben
+internet machts möglich
+ist ja okay
+aber es gibt auch rechtssprechung
+wo mehr als zwei treffer da sind
+wir die korrektheit der ermittlung vermutet
+und ich brauche nicht ins gutachten zu gehen
+nebennbei
+das mag ja schon sein
+er räumt es ja inzident ein
+dass er den anschluss
+es ist halt nicht ausschließbar
+
+hauth:
+ich kann es nicht ausschließen,
+und ich kann es auch in zukunft nicht ausschließen.
+
+appel:
+das ist genau der punkt über den ich mit ihnen sprechen möchte
+zivilverfahren
+einfach mal trifft
+und über den fall spricht
+uns geht es wirklich allein darum...
+ich bin mir sicher
+dass sie, herr hauth, bei sich zu hause eine tauschbörse laufen haben
+einstellung haben
+da mag ich ja gar nicht drüber reden
+kino-kassen
+DVD-verkäufen
+da müssen jobs bezahlt werden
+ob man nun meint dass man das alles im internet umsonst bekommen kann
+egal
+einfach dahin stehen
+in dem ausmaße
+wie es von ihrem anschluss aus betrieben wird
+genau wie der her miller
+habe ich so noch nicht erlebt
+uns geht es nur darum, dass sie aufhören damit
+hören sie auf
+löschen sie die tauschbörsen von ihrem
+für kleines geld
+netflix
+laden sie die filme darüber
+und lassen sie das mit der tauschbörse
+
+hauth:
+da kaufe ich mir lieber einen VPN... problem gelöst... haha.
+
+appel:
+sie glauben dass das völlig in ordnung, was sie da machen, wahrscheinlich
+wir möchten gerne mit ihnen eine friedliche lösung finden
+...
+ich kann ihnen das sagen
+kosten im hintergrund
+wenn wir das geltend machen würden,
+für die beauskunftung...
+
+hauth:
+ja, viel glück, haha.
+
+verschiedene krankheitsbilder erlebt
+eigentlich alle
+
+also ich kenn wirklich alle
+
+
+ich bin hier völlig schmerzfrei
+
+für mich ist das
+
+es sticht schon heraus
+
+ich habe nie
+bei der beauskunftung
+so eine hartnäckigkeit
+
+da gebe ich ihnen ja auch völlig recht
+
+sie sind ja ein intelligenter mensch
+
+ich glaube schon
+dass sie genau verstehen
+
+möglicherweise erwirken sie einen titel von dem sie nichts haben
+
+die frage ist nur die, ob man gewisse dinge einsieht
+
+internet ist ja
+wie ein kaufhaus
+sondern ich klaue es mir alles
+im rechtssinne
+tauschbörsen
+nicht in ordnung
+wenn sie ein schauspieler wären
+von irgendwas bezahlt werden
+lass es bleiben mit den tauschbörsen
+
+hauth:
+nein.
+
+auf dem zivilrechtlichen weg ihnen ins gewissen zu reden
+
+woher nehmen sie sich das recht
+
+ich weiss nur dass ich das rechte habe
+meinen internetanschluss zu teilen mit meinen freunden
+
+tauschbörsen nicht zu nutzen
+sind sie
+auf gut deutsch
+nicht zugänglich
+
+appel:
+xx
+wahrscheinlich
+xx
+
+hauth:
+xxx
+
+appel:
+sie müssen auch nicht
+
+hauth:
+ich würde mir gerne eine schnellere internetverbindung holen... aber... dauert
+
+appel:
+okay,
+also ich würde mal kurz zusammenfassen
+
+hauth:
+komplett.
+
+komplett egal.
+
+und er sagt "komplett egal"
+
+hauth:
+ja klagen kann man viel, aber...
+sie sind ja nicht der erste der gegen mich klagt
+
+miller:
+der beklagte erklärt, er nutze keine tauschbörsen.
+künftig auf die nutzung von tauschbörsen zu verzichten.
+xxx
+was hat er denn für ein krankheitsbild?
+also herr koch, wie schauts aus?
+gutachten
+
+koch:
+im
+unterbringung
+wurde ich zum betreuer bestellt
+der beklagte war in gabersee geschlossen untergebracht
+
+hauth:
+ähm...
+wenn ich noch dazusagen darf
+der anfangsverdacht oder der anfangsvorwurf war "der ist suizidal"
+
+miller:
+der beklagte erklärt
+
+hauth:
+ungefähr vier monate.
+
+miller:
+
+müssen sie jetzt irgendwas nehmen?
+
+nein.
+
+müssen sie keine nehmen, oder nehmen sie keine?
+
+beides.
+
+ähm, wenn ich noch dazu sagen darf,
+ich sehe mich selber nicht als "psychisch krank",
+also ich habe keine krankheitseinsicht
+
+die ärzte sagen, das gehört zur krankheit
+
+nichts untypisches, sage ich mal
+
+konstellation noch nie gehabt
+muss man vielleicht auch damit leben
+bei millionen internetnutzern
+ist vielleicht mal einer dabei
+der schizophren ist
+
+hauth:
+was ändert das an den tatsachen?
+
+weiter betreiben
+dann muss ich
+zivilrechtlich ein gutachten machen
+das bringt ja nichts ausser kosten
+
+xxx
+
+appel:
+
+miller:
+
+versucht
+in irgendeiner weise zu motivieren
+nichts neues
+
+hauth:
+da haben sich schon viele die zähne ausgebissen an mir
+
+miller:
+ich merke wenn
+warum soll ich mich dann engagieren
+
+appel:
+anträge stellen
+wie wir da weiter machen
+
+miller:
+wenn wir das verfahren hier weiter machen
+dann
+gutachten
+
+zur deliktischen verantwortlichkeit
+und die wird nicht anders beurteilt werden können
+wie im 20 und 21
+
+kostet halt noch mehr
+
+im endeffekt
+
+zwei meinungen hören wollen
+kommt nichts raus
+
+schmarrn
+unterm stricht
+nicht haften würde
+selbst wenn sie haften, haben die nichts davon
+
+da ist nichts zum holen
+
+wir stehen weiter vor dem problem
+dass von diesem anschluss
+
+mir sagt er vom namen her ehrlich gesagt nichts
+
+hätte ja sein können
+ich habe andere
+die in 5 oder 6 verfahren
+
+appel:
+ein alleinstellungsmerkmal
+
+keine anträge stellen
+
+und gegebenenfalls
+die kostenneutralste option
+wenn man sich überlegt
+wie geht es weiter
+
+miller:
+übereinstimmend ruhen lassen?
+
+wenn er weiter macht
+
+wir beobachten das
+wir sehen das
+
+wenn wir feststellen
+vielleicht keine rechtsverletzungen mehr begangen werden
+dann habe ich auch kein großes bedürfnis
+nur mal in den raum gestellt
+
+hauth:
+kann ich darauf bestehen, dass das verfahren
+
+miller:
+man kann es
+abweisen
+
+hauth:
+das meine ich
+
+miller:
+das kann ich nicht...
+
+<!--
+  warum nicht?
+  im zweifel für den angeklagten.
+-->
+
+fahrtkosten
+
+komplett egal
+
+warten erst mal ab
+
+gefällt mir nicht
+
+was eine tauschbörse ist, wissen sie, oder?
+
+ja.
+
+was man darf...
+was man urheberrechtlich darf, und was nicht, das wissen sie auch?
+
+ja.
+
+betreuer
+
+er nimmt sein leben komplett in die eigene hand
+
+der beklagte zeige keinerlei auffälligkeit
+
+er nimmt sein leben komplett selbst in die hand
+und ordnet seine dinge selbst
+er wird sich gegen alles beschweren was ich mach
+
+mein job
+
+ich entscheide über die PKH
+
+wenn ich die PKH versagen würde
+
+gutachten
+oder was nicht
+
+das war mal mein gedanke
+
+da
+ein übereinstimmender antrag
+auf ruhen des verfahrens
+nicht gestellt wird
+prozesskostenhilfe
+
+in beiden verfahren
+
+sodann ergeht beschluss
+
+über den prozesskostenhilfeantrag wird im bürowege entschieden
+
+wenn ich PKH versage
+
+und dann schauen wir weiter
+
+das verfahren
+vielleicht
+landgericht geht
+
+gutachten
+obermeier
+konkret feststellt
+
+kann ich es mal anschauen?
+es ist ja eigentlich nur zu ihrem vorteil
+ich weiss ja schon dass schizophrenie drinsteht
+
+herr hauth?
+
+hauth:
+ähm ja, ich glaube einfach, es ist nicht hilfreich,
+weil wie gesagt,
+ich hab ja auch überhaupt keine krankheitseinsicht,
+gutachten
+oder nicht
+ich will es ja bloß selber wissen was drin steht
+
+hauth:
+gute frage, ähm...
+
+miller:
+ich möchte es jetzt nicht im einzelnen lesen,
+ich möchte nur in der zusammenfassung lesen was er schreibt.
+
+[13 sekunden pause]
+
+hauth:
+mmh, nein.
+
+miller:
+nachdem der beklagte erklärt,
+er sei nicht damit einverstanden,
+dass der begleitende betreuer herr koch
+das sachverständigengutachten
+des herrn obermaier
+dem gericht bekannt gibt.
+
+okay, dann machen wir das so.
+
+appel:
+auf die stellungnahme des beklagten
+einen schriftsatz
+
+klägerseite beantragt
+zur replik auf
+die klageerwiderung
+eine
+frist von drei wochen
+
+ergeht beschluss
+
+erhält zur replik
+klageerwiderung
+drei wochen
+
+römisch zwotens
+
+nach der replik
+wird zunächst allein über den prozesskostenhilfeantrag
+entschieden
+
+appel:
+xxx
+
+miller:
+ob wir das jetzt schon machen, oder
+sonst haben wir in drei wochen
+wieder die veranstaltung
+
+klägervertreter
+
+wenn ich jetzt zunächst entscheide
+
+antrage
+der wurde
+ruhendes verfahren möchten sie nicht, sie möchten klageabweisung
+
+anspruchsbegründung
+
+und der beklagte
+klageabweisung
+
+römisch erstens
+
+klägervertreter erhält eine replikfrist von drei wochen
+
+gegebenenfalls
+
+jetzt haben wir heute den 23.9.
+
+hauth:
+25.9. ...
+
+miller:
+donnerstag, 6.11.2025, 09:15 uhr, sitzungssaal 914 römisch eins
+verfahren
+da machen wir
+spiegeln das protokoll auch inhaltlich
+
+appel:
+anträge und
+
+miller:
+können wir das reinspiegeln
+klägervertreter und beklagter erklären sich einverstanden,
+dass das verfahren
+spiegelbildlich eingefügt wird
+klägervertreter beantragt auch hier eine replikfrist
+klageabweisung
+...
+herr hauth,
+sie sind ja ein vernünftiger mensch...
+
+hauth:
+manchmal...
+
+miller:
+für die berufung
+sie brauchen dann einen anwalt
+
+hauth:
+ja, PKH
+
+miller:
+man kann ja viel sinniges und unsinniges machen
+
+hauth:
+ich will eine klageabweisung
+schauen wir mal, wo ich die kriege
+
+miller:
+für heute fertig
+kommen sie gut heim
+bleiben sie gesetzestreu
+
+hauth:
+bin ich doch
+
+miller:
+habe ich ja vorher schon erfahren
+
+hauth:
+ich bin unschuldig
+
+appel:
+schönes schlusswort, oder?
+
+miller:
+alles klar...
